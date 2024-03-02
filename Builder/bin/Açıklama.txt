@@ -1,0 +1,6 @@
+Bu uygulamayı builder deseni ile yapmanın avantajı nedir? Sizce böyle bir uygulamada
+abstract factory deseni mi tercih edilmelidir yoksa builder deseni mi, neden?
+
+    Builder deseni tercih edilmelidir çünkü şeklin başlangıç konumu ,kenar uzunlukları ,kenar kalınlıkları ,kenar rengi ve iç rengi
+şeklin işlevselliğini bozmaz tamamen görünüm ile ilgilidir.
+
